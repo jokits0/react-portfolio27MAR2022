@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jokits0/react-portfolio27MAR2022.git/static/css/main.3ed1c063.css",
+    "main.js": "/jokits0/react-portfolio27MAR2022.git/static/js/main.24461df5.js",
+    "static/media/about-profile.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/about-profile.740087a290034915818a.jpg",
+    "static/media/me1.png": "/jokits0/react-portfolio27MAR2022.git/static/media/me1.70951b21355423206912.png",
+    "static/media/CV.pdf": "/jokits0/react-portfolio27MAR2022.git/static/media/CV.93f3ccb9d2d879ff6b88.pdf",
+    "static/media/portfolio4-isaac-smith-6EnTPvPPL6I-unsplash.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/portfolio4-isaac-smith-6EnTPvPPL6I-unsplash.ac638d2c9fbe89c98fd8.jpg",
+    "static/media/portfolio5-luke-chesser-unsplash.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/portfolio5-luke-chesser-unsplash.ec08c51570e9fe1fef2d.jpg",
+    "static/media/avatar1-pexels-anna-shvets-4587959.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/avatar1-pexels-anna-shvets-4587959.53f9c35ae2e4e7552118.jpg",
+    "static/media/portfolio2-stephen-dawson-unsplash.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/portfolio2-stephen-dawson-unsplash.6a6d4b0aed7115c6ffb7.jpg",
+    "static/media/portfolio3-georgia-de-lotz--UsJoNxLaNo-unsplash.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/portfolio3-georgia-de-lotz--UsJoNxLaNo-unsplash.0e55e115add1fdb8f972.jpg",
+    "static/media/portfolio1-nick-chong-unsplash.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/portfolio1-nick-chong-unsplash.b96ddc123ccda47c4f08.jpg",
+    "static/media/avatar2-pexels-anna-shvets-4588013.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/avatar2-pexels-anna-shvets-4588013.f601ded11d956945bc0d.jpg",
+    "static/media/portfolio6-agence-olloweb-qfp4-Ud6Fyg-unsplash.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/portfolio6-agence-olloweb-qfp4-Ud6Fyg-unsplash.5380cce37defcce633b0.jpg",
+    "static/media/avatar3-pexels-anna-shvets-4588048.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/avatar3-pexels-anna-shvets-4588048.f5d69ea77987ad655211.jpg",
+    "static/media/avatar4-pexels-anna-shvets-4588065.jpg": "/jokits0/react-portfolio27MAR2022.git/static/media/avatar4-pexels-anna-shvets-4588065.845bfbe58e9369976235.jpg",
+    "index.html": "/jokits0/react-portfolio27MAR2022.git/index.html",
+    "main.3ed1c063.css.map": "/jokits0/react-portfolio27MAR2022.git/static/css/main.3ed1c063.css.map",
+    "main.24461df5.js.map": "/jokits0/react-portfolio27MAR2022.git/static/js/main.24461df5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed1c063.css",
+    "static/js/main.24461df5.js"
+  ]
+}
